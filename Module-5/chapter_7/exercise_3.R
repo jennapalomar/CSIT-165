@@ -8,7 +8,7 @@ words <- c("hi", "my", "name", "is", "jenna", "s")
 # "is the word of the day!" pasted on to the end using `paste0()`.
 # BONUS: Surround the word in quotes (e.g., `'data' is the word of the day!`)
 # Note that the results are more obviously correct with single quotes.
-words_of_the_day <- paste0(words," " ,"is the word of the day")
+words_of_the_day <- paste0(words," " ,"is the word of the day") 
 
 # Create a vector `a_f_words` which are the elements in `words` that start with 
 # "a" through "f"
